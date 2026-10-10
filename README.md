@@ -20,7 +20,7 @@ The notebooks are organized by research step. Each section explains its purpose 
 
 The analysis uses PubMed Knowledge Graph / PubMed, Web of Science (WoS), Overton, Global Burden of Disease, OpenAlex, and linked patent and clinical-trial data. The WoS files were provided through institutional access and are **not distributed here**. This folder also excludes WoS-derived publication-level records, funding acknowledgments, matched identifiers, intermediate data, model output tables, and figure-ready regression results. The complete manuscript estimates cannot be recomputed from this folder alone.
 
-No publication-level sample is included. Even a 1,000-row sample drawn from the restricted WoS-derived analytical data could disclose licensed content. The agency validation file contains 1,000 rows of category and country labels with sequential IDs; it contains no agency names, aliases, frequencies, or publication identifiers. The second data file is a 24-row disease-category lookup. Any later sample release should be separately reviewed for source rights and capped at 1,000 rows.
+The agency validation file contains 1,000 rows of category and country labels with sequential IDs; it contains no agency names, aliases, frequencies, or publication identifiers. The second data file is a 24-row disease-category lookup. Any later sample release should be separately reviewed for source rights and capped at 1,000 rows.
 
 The agency validation sample matches the manual coding described in the manuscript. GPT-5 mini v2 agreed with the manual agency-type labels for 921 of 1,000 organizations (92.1%) and with the manual U.S./non-U.S. labels for 911 of 1,000 (91.1%). The full set of 61,452 classified organization records is not distributed.
 
