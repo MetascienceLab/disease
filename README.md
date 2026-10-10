@@ -1,4 +1,4 @@
-# Code for Distinct Roles of Different Funding Structures in the Impact of U.S. Disease Research
+# Distinct Roles of Different Funding Structures in the Impact of U.S. Disease Research
 
 This folder contains selected analysis code associated with the manuscript. It is a code disclosure package, not a complete runnable copy of the private research workspace. The source notebooks were inspected and excerpted without executing their cells. The copies here have no saved cell outputs.
 
