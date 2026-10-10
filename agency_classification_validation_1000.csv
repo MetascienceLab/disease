@@ -1,0 +1,1001 @@
+sample_id,gpt5_v2_category,gpt5_v2_country,manual_category,manual_country
+sample_0001,Other Organization,US,Other Organization,US
+sample_0002,Public Agency,Non-US,Public Agency,Non-US
+sample_0003,Public Agency,US,Public Agency,US
+sample_0004,Other Organization,US,Other Organization,US
+sample_0005,Private Company,Non-US,Private Company,Non-US
+sample_0006,Other Organization,US,Other Organization,US
+sample_0007,Public Agency,Non-US,Public Agency,Non-US
+sample_0008,Public Agency,Non-US,Public Agency,Non-US
+sample_0009,Public Agency,Non-US,Public Agency,Non-US
+sample_0010,Other Organization,Non-US,Other Organization,Non-US
+sample_0011,Public Agency,US,Public Agency,US
+sample_0012,Public Agency,US,Public Agency,US
+sample_0013,Other Organization,US,Other Organization,US
+sample_0014,Private Company,US,Private Company,US
+sample_0015,Other Organization,Non-US,Other Organization,Non-US
+sample_0016,Other Organization,Non-US,Other Organization,Non-US
+sample_0017,Other Organization,US,Other Organization,US
+sample_0018,Public Agency,Non-US,Public Agency,Non-US
+sample_0019,Private Company,Non-US,Private Company,Non-US
+sample_0020,Other Organization,US,University,US
+sample_0021,Public Agency,US,Public Agency,US
+sample_0022,University,US,University,US
+sample_0023,Other Organization,US,Other Organization,US
+sample_0024,Public Agency,US,Public Agency,US
+sample_0025,University,Uncertain,Other Organization,Uncertain
+sample_0026,Public Agency,US,Public Agency,US
+sample_0027,Private Company,US,Private Company,US
+sample_0028,Public Agency,US,Public Agency,US
+sample_0029,Other Organization,Uncertain,Other Organization,US
+sample_0030,Public Agency,US,Public Agency,US
+sample_0031,Private Company,Non-US,Private Company,Non-US
+sample_0032,University,US,University,US
+sample_0033,Other Organization,US,Other Organization,US
+sample_0034,Public Agency,US,Public Agency,US
+sample_0035,Other Organization,US,Other Organization,US
+sample_0036,Other Organization,Non-US,Other Organization,Non-US
+sample_0037,Public Agency,US,Public Agency,US
+sample_0038,University,US,University,US
+sample_0039,Other Organization,US,Other Organization,US
+sample_0040,Other Organization,US,Other Organization,US
+sample_0041,Other Organization,Uncertain,Other Organization,Non-US
+sample_0042,Public Agency,Non-US,Public Agency,Non-US
+sample_0043,Other Organization,US,Other Organization,US
+sample_0044,Other Organization,US,University,US
+sample_0045,Public Agency,US,Public Agency,US
+sample_0046,Other Organization,US,Other Organization,US
+sample_0047,Other Organization,US,Other Organization,US
+sample_0048,Other Organization,US,Other Organization,US
+sample_0049,Private Company,Non-US,Private Company,Non-US
+sample_0050,Private Company,US,Private Company,US
+sample_0051,University,US,University,US
+sample_0052,Public Agency,US,Public Agency,US
+sample_0053,Other Organization,US,Other Organization,US
+sample_0054,Other Organization,Non-US,Other Organization,Non-US
+sample_0055,Public Agency,Non-US,Public Agency,Non-US
+sample_0056,Public Agency,Non-US,Public Agency,Non-US
+sample_0057,Other Organization,Uncertain,Other Organization,Uncertain
+sample_0058,Public Agency,US,Public Agency,US
+sample_0059,Private Company,US,Private Company,US
+sample_0060,Public Agency,Non-US,Public Agency,Non-US
+sample_0061,Public Agency,Non-US,Public Agency,Non-US
+sample_0062,Public Agency,US,Public Agency,US
+sample_0063,Public Agency,US,Public Agency,US
+sample_0064,Public Agency,Non-US,Other Organization,Non-US
+sample_0065,Other Organization,US,Other Organization,US
+sample_0066,Other Organization,US,Public Agency,US
+sample_0067,Other Organization,US,Other Organization,US
+sample_0068,Other Organization,Non-US,Other Organization,Non-US
+sample_0069,Public Agency,US,Public Agency,US
+sample_0070,Public Agency,Non-US,Public Agency,Non-US
+sample_0071,Other Organization,US,Other Organization,US
+sample_0072,Public Agency,US,Public Agency,US
+sample_0073,Other Organization,Uncertain,Other Organization,Non-US
+sample_0074,Other Organization,Uncertain,Other Organization,Non-US
+sample_0075,Private Company,US,Private Company,US
+sample_0076,Public Agency,Non-US,Public Agency,Non-US
+sample_0077,Other Organization,Non-US,University,Non-US
+sample_0078,Public Agency,Non-US,Public Agency,Non-US
+sample_0079,Other Organization,Non-US,Other Organization,Non-US
+sample_0080,Public Agency,US,Public Agency,US
+sample_0081,Public Agency,Non-US,Public Agency,Non-US
+sample_0082,Public Agency,Non-US,Public Agency,Non-US
+sample_0083,University,US,University,US
+sample_0084,Public Agency,US,Public Agency,US
+sample_0085,Other Organization,US,Other Organization,US
+sample_0086,University,US,University,US
+sample_0087,Other Organization,US,Other Organization,US
+sample_0088,Other Organization,Non-US,Public Agency,Non-US
+sample_0089,Public Agency,Non-US,Public Agency,Non-US
+sample_0090,Private Company,US,Private Company,US
+sample_0091,University,US,University,US
+sample_0092,Public Agency,US,Public Agency,US
+sample_0093,Public Agency,Non-US,Public Agency,Non-US
+sample_0094,Other Organization,US,Other Organization,US
+sample_0095,Other Organization,Non-US,Other Organization,Non-US
+sample_0096,Other Organization,Non-US,Other Organization,Non-US
+sample_0097,Other Organization,US,Other Organization,US
+sample_0098,Other Organization,Uncertain,Other Organization,US
+sample_0099,Other Organization,Non-US,Other Organization,Non-US
+sample_0100,Public Agency,Non-US,Public Agency,Non-US
+sample_0101,Private Company,US,Private Company,US
+sample_0102,Public Agency,US,Public Agency,US
+sample_0103,Private Company,Non-US,Private Company,Non-US
+sample_0104,Other Organization,Uncertain,Other Organization,US
+sample_0105,University,Non-US,University,Non-US
+sample_0106,Public Agency,US,Public Agency,US
+sample_0107,University,US,University,US
+sample_0108,Public Agency,Non-US,Public Agency,Non-US
+sample_0109,Other Organization,US,Other Organization,US
+sample_0110,Public Agency,Non-US,Public Agency,Non-US
+sample_0111,Private Company,Non-US,Other Organization,Non-US
+sample_0112,University,US,University,US
+sample_0113,Public Agency,US,Public Agency,US
+sample_0114,Other Organization,Non-US,Other Organization,Non-US
+sample_0115,Other Organization,Non-US,University,Non-US
+sample_0116,Public Agency,US,Public Agency,US
+sample_0117,Public Agency,Non-US,Public Agency,Non-US
+sample_0118,Public Agency,Non-US,Public Agency,Non-US
+sample_0119,Public Agency,US,Other Organization,Uncertain
+sample_0120,Public Agency,Non-US,Public Agency,Non-US
+sample_0121,Public Agency,US,Public Agency,US
+sample_0122,Public Agency,US,Public Agency,US
+sample_0123,Public Agency,Non-US,Public Agency,Non-US
+sample_0124,Private Company,US,Private Company,US
+sample_0125,Other Organization,US,Other Organization,US
+sample_0126,University,US,Other Organization,US
+sample_0127,Private Company,US,Private Company,Non-US
+sample_0128,Public Agency,US,Public Agency,US
+sample_0129,University,Non-US,University,Non-US
+sample_0130,Other Organization,Uncertain,Other Organization,US
+sample_0131,Public Agency,Non-US,Public Agency,Non-US
+sample_0132,University,Non-US,University,Non-US
+sample_0133,Public Agency,US,Public Agency,US
+sample_0134,Public Agency,Non-US,University,Non-US
+sample_0135,Other Organization,US,Other Organization,US
+sample_0136,Other Organization,US,Other Organization,US
+sample_0137,Other Organization,US,Other Organization,US
+sample_0138,Other Organization,Uncertain,Private Company,Uncertain
+sample_0139,Private Company,US,Private Company,US
+sample_0140,Public Agency,Non-US,Public Agency,Non-US
+sample_0141,Public Agency,US,Public Agency,US
+sample_0142,Public Agency,Non-US,Public Agency,Non-US
+sample_0143,Other Organization,Non-US,Other Organization,Non-US
+sample_0144,Private Company,Uncertain,Private Company,Non-US
+sample_0145,Other Organization,Non-US,Other Organization,Non-US
+sample_0146,Other Organization,US,Other Organization,US
+sample_0147,Private Company,Uncertain,Private Company,Non-US
+sample_0148,Public Agency,Uncertain,Public Agency,US
+sample_0149,Private Company,Non-US,Private Company,Non-US
+sample_0150,Other Organization,Non-US,Other Organization,Non-US
+sample_0151,Private Company,Non-US,Private Company,Non-US
+sample_0152,Public Agency,Non-US,Public Agency,Non-US
+sample_0153,Public Agency,US,Public Agency,US
+sample_0154,Public Agency,Non-US,Public Agency,Non-US
+sample_0155,Public Agency,US,Public Agency,US
+sample_0156,Private Company,Non-US,Private Company,Non-US
+sample_0157,University,US,University,US
+sample_0158,University,US,Other Organization,US
+sample_0159,Public Agency,Non-US,Public Agency,Non-US
+sample_0160,Private Company,Non-US,Private Company,Non-US
+sample_0161,Other Organization,Non-US,Other Organization,Non-US
+sample_0162,University,US,University,US
+sample_0163,Other Organization,Non-US,Public Agency,Non-US
+sample_0164,Other Organization,Non-US,University,US
+sample_0165,Other Organization,US,Other Organization,US
+sample_0166,Public Agency,US,Public Agency,US
+sample_0167,Public Agency,US,Public Agency,US
+sample_0168,Public Agency,US,Public Agency,US
+sample_0169,Public Agency,Non-US,Public Agency,Non-US
+sample_0170,University,Uncertain,University,Uncertain
+sample_0171,Public Agency,US,Public Agency,US
+sample_0172,Private Company,US,Private Company,US
+sample_0173,Other Organization,Non-US,Other Organization,Non-US
+sample_0174,Public Agency,US,Public Agency,US
+sample_0175,Public Agency,US,Public Agency,US
+sample_0176,Other Organization,US,Other Organization,US
+sample_0177,Other Organization,Non-US,Other Organization,Non-US
+sample_0178,Public Agency,US,Public Agency,US
+sample_0179,Other Organization,US,Other Organization,US
+sample_0180,Public Agency,Non-US,Public Agency,Non-US
+sample_0181,Other Organization,Non-US,Other Organization,Non-US
+sample_0182,Public Agency,Non-US,Public Agency,Non-US
+sample_0183,Public Agency,US,Public Agency,US
+sample_0184,Other Organization,Uncertain,University,US
+sample_0185,Public Agency,US,Public Agency,US
+sample_0186,Other Organization,Uncertain,Other Organization,US
+sample_0187,Other Organization,US,Other Organization,US
+sample_0188,Public Agency,US,Public Agency,US
+sample_0189,Other Organization,Non-US,Other Organization,Non-US
+sample_0190,Other Organization,US,Other Organization,US
+sample_0191,University,US,University,US
+sample_0192,Other Organization,US,Other Organization,US
+sample_0193,Public Agency,Non-US,Public Agency,Non-US
+sample_0194,Public Agency,US,Public Agency,US
+sample_0195,Public Agency,US,Public Agency,US
+sample_0196,Public Agency,US,Public Agency,US
+sample_0197,Other Organization,US,University,US
+sample_0198,Public Agency,Non-US,Public Agency,Non-US
+sample_0199,Public Agency,US,Public Agency,US
+sample_0200,Public Agency,Non-US,Public Agency,Non-US
+sample_0201,Other Organization,Non-US,Other Organization,Non-US
+sample_0202,University,US,University,US
+sample_0203,Public Agency,US,Public Agency,US
+sample_0204,Public Agency,US,Public Agency,US
+sample_0205,Private Company,Non-US,Private Company,US
+sample_0206,Public Agency,US,Public Agency,US
+sample_0207,Other Organization,Non-US,Other Organization,Non-US
+sample_0208,Other Organization,US,Other Organization,US
+sample_0209,Public Agency,US,Public Agency,US
+sample_0210,Other Organization,US,Other Organization,US
+sample_0211,Public Agency,US,Public Agency,US
+sample_0212,University,Non-US,University,Non-US
+sample_0213,Other Organization,Non-US,Other Organization,Non-US
+sample_0214,Public Agency,US,Public Agency,US
+sample_0215,Private Company,Non-US,Private Company,Non-US
+sample_0216,Public Agency,US,Public Agency,US
+sample_0217,Public Agency,US,Public Agency,US
+sample_0218,Private Company,US,Private Company,US
+sample_0219,Other Organization,US,Other Organization,US
+sample_0220,Other Organization,Uncertain,Other Organization,US
+sample_0221,Public Agency,Non-US,Public Agency,Non-US
+sample_0222,Public Agency,Non-US,Public Agency,Non-US
+sample_0223,Public Agency,US,Public Agency,US
+sample_0224,Other Organization,Uncertain,Other Organization,Non-US
+sample_0225,Public Agency,US,Public Agency,US
+sample_0226,Other Organization,US,Other Organization,US
+sample_0227,Public Agency,Non-US,Other Organization,Non-US
+sample_0228,University,US,University,US
+sample_0229,University,US,University,US
+sample_0230,Other Organization,US,Other Organization,US
+sample_0231,Public Agency,US,Public Agency,US
+sample_0232,Public Agency,Non-US,Public Agency,Non-US
+sample_0233,Other Organization,US,Other Organization,US
+sample_0234,Public Agency,US,Public Agency,US
+sample_0235,Private Company,Non-US,Private Company,Non-US
+sample_0236,Other Organization,US,Other Organization,US
+sample_0237,Public Agency,Uncertain,Uncertain,Uncertain
+sample_0238,Other Organization,US,Other Organization,US
+sample_0239,Other Organization,Non-US,Other Organization,Non-US
+sample_0240,University,Non-US,University,Non-US
+sample_0241,Other Organization,US,Other Organization,US
+sample_0242,University,US,University,US
+sample_0243,Public Agency,Non-US,Public Agency,Non-US
+sample_0244,Public Agency,US,Public Agency,US
+sample_0245,Other Organization,US,Other Organization,US
+sample_0246,Private Company,Non-US,Private Company,Non-US
+sample_0247,Private Company,US,Private Company,US
+sample_0248,Public Agency,US,Public Agency,US
+sample_0249,Public Agency,Non-US,Public Agency,Non-US
+sample_0250,Other Organization,US,Other Organization,US
+sample_0251,Public Agency,US,Public Agency,US
+sample_0252,Other Organization,Non-US,Other Organization,Non-US
+sample_0253,Other Organization,US,Other Organization,US
+sample_0254,Private Company,US,Private Company,US
+sample_0255,Public Agency,Non-US,Public Agency,Non-US
+sample_0256,Other Organization,US,Other Organization,US
+sample_0257,Other Organization,Uncertain,Other Organization,US
+sample_0258,Private Company,Uncertain,Private Company,US
+sample_0259,Public Agency,Non-US,Public Agency,Non-US
+sample_0260,Other Organization,US,Other Organization,US
+sample_0261,Private Company,US,Private Company,US
+sample_0262,Private Company,US,Private Company,Non-US
+sample_0263,Other Organization,Non-US,Other Organization,Non-US
+sample_0264,Private Company,Non-US,Private Company,Non-US
+sample_0265,Public Agency,US,Public Agency,US
+sample_0266,University,US,University,US
+sample_0267,Other Organization,US,Other Organization,US
+sample_0268,Other Organization,US,Other Organization,US
+sample_0269,Private Company,Non-US,Private Company,US
+sample_0270,Public Agency,US,Public Agency,US
+sample_0271,Public Agency,US,Public Agency,US
+sample_0272,University,US,University,US
+sample_0273,Private Company,Uncertain,Private Company,US
+sample_0274,Public Agency,US,Public Agency,US
+sample_0275,Other Organization,Uncertain,Other Organization,US
+sample_0276,Public Agency,US,Public Agency,US
+sample_0277,Other Organization,Non-US,Other Organization,Non-US
+sample_0278,Other Organization,Non-US,Other Organization,Non-US
+sample_0279,Public Agency,US,Public Agency,US
+sample_0280,Public Agency,US,Public Agency,US
+sample_0281,Other Organization,Non-US,Other Organization,Non-US
+sample_0282,Private Company,Non-US,Private Company,US
+sample_0283,Public Agency,Non-US,Public Agency,Non-US
+sample_0284,Other Organization,Non-US,Other Organization,Non-US
+sample_0285,University,US,University,US
+sample_0286,Private Company,US,Private Company,US
+sample_0287,Private Company,Non-US,Private Company,Non-US
+sample_0288,Other Organization,US,Other Organization,US
+sample_0289,Private Company,Non-US,Private Company,Non-US
+sample_0290,Other Organization,US,University,Non-US
+sample_0291,Public Agency,Non-US,Public Agency,Non-US
+sample_0292,Other Organization,Non-US,Other Organization,Non-US
+sample_0293,Other Organization,US,Other Organization,US
+sample_0294,Public Agency,Non-US,Public Agency,Non-US
+sample_0295,Private Company,US,Private Company,US
+sample_0296,Public Agency,US,Public Agency,US
+sample_0297,Public Agency,US,Public Agency,US
+sample_0298,Public Agency,US,Public Agency,US
+sample_0299,Public Agency,Non-US,Public Agency,Non-US
+sample_0300,Public Agency,Non-US,Public Agency,Non-US
+sample_0301,Other Organization,Non-US,Other Organization,Non-US
+sample_0302,Other Organization,US,Other Organization,US
+sample_0303,Other Organization,Uncertain,Other Organization,Non-US
+sample_0304,Public Agency,US,Public Agency,US
+sample_0305,Other Organization,Non-US,Other Organization,Non-US
+sample_0306,Other Organization,Uncertain,Other Organization,Non-US
+sample_0307,Public Agency,Non-US,Other Organization,Non-US
+sample_0308,Other Organization,US,Public Agency,US
+sample_0309,Other Organization,US,Other Organization,US
+sample_0310,Other Organization,Uncertain,University,US
+sample_0311,Public Agency,US,Public Agency,US
+sample_0312,University,US,University,US
+sample_0313,Other Organization,Non-US,Other Organization,Non-US
+sample_0314,Private Company,US,Private Company,US
+sample_0315,University,Non-US,University,Non-US
+sample_0316,Other Organization,US,Other Organization,US
+sample_0317,Public Agency,US,Public Agency,US
+sample_0318,Public Agency,US,Public Agency,US
+sample_0319,Other Organization,US,Other Organization,US
+sample_0320,University,Uncertain,University,US
+sample_0321,Other Organization,US,Other Organization,US
+sample_0322,Private Company,US,Private Company,US
+sample_0323,University,Non-US,University,Non-US
+sample_0324,Other Organization,Non-US,Other Organization,Non-US
+sample_0325,Public Agency,Non-US,Public Agency,Non-US
+sample_0326,University,US,Other Organization,US
+sample_0327,Public Agency,US,Public Agency,US
+sample_0328,Public Agency,US,Public Agency,US
+sample_0329,Private Company,US,Private Company,Non-US
+sample_0330,Public Agency,Non-US,Public Agency,Non-US
+sample_0331,Other Organization,Uncertain,Private Company,Non-US
+sample_0332,Other Organization,US,Other Organization,US
+sample_0333,Public Agency,US,Public Agency,US
+sample_0334,Public Agency,Non-US,Public Agency,Non-US
+sample_0335,Public Agency,Non-US,Public Agency,Non-US
+sample_0336,Public Agency,US,Public Agency,US
+sample_0337,Public Agency,US,Public Agency,US
+sample_0338,Other Organization,Non-US,Other Organization,Non-US
+sample_0339,Other Organization,Uncertain,Other Organization,Uncertain
+sample_0340,Public Agency,Non-US,Public Agency,Non-US
+sample_0341,Other Organization,US,University,US
+sample_0342,Other Organization,Non-US,Other Organization,US
+sample_0343,Other Organization,Uncertain,Other Organization,Uncertain
+sample_0344,University,US,University,US
+sample_0345,Public Agency,US,Public Agency,US
+sample_0346,Public Agency,US,Public Agency,US
+sample_0347,Public Agency,Non-US,Public Agency,Non-US
+sample_0348,Other Organization,US,Other Organization,US
+sample_0349,Other Organization,Uncertain,Other Organization,US
+sample_0350,Other Organization,Uncertain,Other Organization,Non-US
+sample_0351,University,US,University,US
+sample_0352,University,US,University,US
+sample_0353,Other Organization,US,Other Organization,Non-US
+sample_0354,University,Non-US,University,Non-US
+sample_0355,Public Agency,Non-US,Public Agency,Non-US
+sample_0356,Public Agency,Non-US,Public Agency,Non-US
+sample_0357,Other Organization,US,Other Organization,Uncertain
+sample_0358,Other Organization,Uncertain,Other Organization,Uncertain
+sample_0359,Public Agency,US,Public Agency,US
+sample_0360,Public Agency,Non-US,Public Agency,Non-US
+sample_0361,Other Organization,US,Other Organization,US
+sample_0362,Private Company,Non-US,Private Company,US
+sample_0363,Public Agency,US,Public Agency,US
+sample_0364,University,US,Other Organization,US
+sample_0365,Other Organization,US,University,US
+sample_0366,Other Organization,Uncertain,Other Organization,US
+sample_0367,University,US,University,US
+sample_0368,Public Agency,US,Public Agency,US
+sample_0369,University,US,Other Organization,US
+sample_0370,Other Organization,Non-US,Other Organization,Non-US
+sample_0371,Public Agency,Non-US,Public Agency,Non-US
+sample_0372,Private Company,Uncertain,Private Company,US
+sample_0373,University,US,University,US
+sample_0374,Private Company,US,Private Company,US
+sample_0375,Other Organization,US,Other Organization,US
+sample_0376,Other Organization,US,Other Organization,US
+sample_0377,Other Organization,Non-US,Other Organization,Non-US
+sample_0378,Public Agency,Non-US,Public Agency,Non-US
+sample_0379,University,US,University,US
+sample_0380,Public Agency,US,Public Agency,US
+sample_0381,Other Organization,Non-US,Other Organization,Non-US
+sample_0382,Private Company,US,Private Company,US
+sample_0383,Public Agency,US,Public Agency,US
+sample_0384,Private Company,Uncertain,Private Company,Uncertain
+sample_0385,Other Organization,US,Other Organization,US
+sample_0386,Public Agency,US,Public Agency,US
+sample_0387,University,US,University,US
+sample_0388,Private Company,Non-US,Private Company,Non-US
+sample_0389,Public Agency,US,Public Agency,US
+sample_0390,Private Company,US,Private Company,US
+sample_0391,Public Agency,US,Public Agency,US
+sample_0392,Public Agency,Non-US,Public Agency,Non-US
+sample_0393,Public Agency,Non-US,Public Agency,Non-US
+sample_0394,Other Organization,Uncertain,Other Organization,Uncertain
+sample_0395,Other Organization,US,Other Organization,US
+sample_0396,Other Organization,US,Other Organization,US
+sample_0397,Private Company,US,Private Company,US
+sample_0398,Other Organization,US,Other Organization,US
+sample_0399,Public Agency,US,Public Agency,US
+sample_0400,University,US,University,US
+sample_0401,Private Company,Non-US,Private Company,Non-US
+sample_0402,University,US,University,US
+sample_0403,Other Organization,Uncertain,Other Organization,Uncertain
+sample_0404,Public Agency,US,Public Agency,US
+sample_0405,Other Organization,US,Other Organization,US
+sample_0406,Private Company,US,Private Company,US
+sample_0407,University,US,University,US
+sample_0408,Public Agency,US,Public Agency,US
+sample_0409,Other Organization,Non-US,Other Organization,Non-US
+sample_0410,Other Organization,Non-US,Other Organization,Non-US
+sample_0411,Other Organization,US,Other Organization,US
+sample_0412,Other Organization,US,Other Organization,Uncertain
+sample_0413,Public Agency,US,Public Agency,US
+sample_0414,Public Agency,Uncertain,Public Agency,Uncertain
+sample_0415,Other Organization,US,Other Organization,US
+sample_0416,University,Non-US,University,Non-US
+sample_0417,University,US,University,US
+sample_0418,Other Organization,US,Other Organization,US
+sample_0419,Public Agency,US,Public Agency,US
+sample_0420,Other Organization,US,Other Organization,US
+sample_0421,Public Agency,Non-US,Public Agency,Non-US
+sample_0422,Private Company,Uncertain,Private Company,Non-US
+sample_0423,Public Agency,Non-US,Public Agency,Non-US
+sample_0424,Private Company,Uncertain,Private Company,US
+sample_0425,Other Organization,US,Other Organization,US
+sample_0426,Other Organization,Non-US,Other Organization,Non-US
+sample_0427,Other Organization,Uncertain,Other Organization,Uncertain
+sample_0428,Other Organization,US,Other Organization,US
+sample_0429,Other Organization,US,Other Organization,US
+sample_0430,Public Agency,US,Public Agency,US
+sample_0431,Other Organization,US,Other Organization,US
+sample_0432,Public Agency,US,Public Agency,US
+sample_0433,Other Organization,US,Other Organization,US
+sample_0434,Other Organization,US,Other Organization,US
+sample_0435,University,US,University,US
+sample_0436,Private Company,Uncertain,Private Company,Non-US
+sample_0437,Public Agency,Non-US,Public Agency,Non-US
+sample_0438,Other Organization,Uncertain,Other Organization,US
+sample_0439,Other Organization,Non-US,Other Organization,Non-US
+sample_0440,Public Agency,Non-US,Public Agency,Non-US
+sample_0441,Public Agency,US,Public Agency,US
+sample_0442,University,US,University,US
+sample_0443,Public Agency,Non-US,Other Organization,Non-US
+sample_0444,Other Organization,Non-US,Public Agency,Non-US
+sample_0445,Other Organization,Non-US,Other Organization,Non-US
+sample_0446,Public Agency,US,Public Agency,US
+sample_0447,Private Company,US,Private Company,US
+sample_0448,Other Organization,US,Other Organization,US
+sample_0449,Other Organization,US,Other Organization,US
+sample_0450,Public Agency,Non-US,Other Organization,Non-US
+sample_0451,Private Company,US,Private Company,US
+sample_0452,Public Agency,US,Public Agency,US
+sample_0453,Public Agency,US,Public Agency,US
+sample_0454,Public Agency,US,Public Agency,US
+sample_0455,Other Organization,Non-US,Other Organization,Non-US
+sample_0456,Public Agency,Non-US,Public Agency,Non-US
+sample_0457,Other Organization,Non-US,Other Organization,Non-US
+sample_0458,Public Agency,US,Public Agency,US
+sample_0459,Public Agency,Non-US,Public Agency,Non-US
+sample_0460,University,Non-US,University,Non-US
+sample_0461,Other Organization,Uncertain,Other Organization,Non-US
+sample_0462,Other Organization,US,Other Organization,US
+sample_0463,Public Agency,US,Public Agency,US
+sample_0464,Other Organization,Non-US,Other Organization,Non-US
+sample_0465,Public Agency,US,Public Agency,US
+sample_0466,Private Company,US,Private Company,US
+sample_0467,Other Organization,Non-US,Other Organization,Non-US
+sample_0468,University,US,Other Organization,US
+sample_0469,University,US,University,US
+sample_0470,Public Agency,US,Public Agency,US
+sample_0471,Public Agency,US,Public Agency,US
+sample_0472,Public Agency,US,Public Agency,US
+sample_0473,Other Organization,US,Other Organization,US
+sample_0474,Other Organization,Uncertain,Other Organization,US
+sample_0475,Private Company,US,Private Company,US
+sample_0476,Private Company,US,Private Company,US
+sample_0477,Public Agency,US,Public Agency,US
+sample_0478,Public Agency,US,Public Agency,US
+sample_0479,Other Organization,US,University,US
+sample_0480,Public Agency,US,Public Agency,US
+sample_0481,Other Organization,Non-US,Other Organization,Non-US
+sample_0482,Other Organization,US,Other Organization,US
+sample_0483,Public Agency,Non-US,Public Agency,Non-US
+sample_0484,Public Agency,US,Public Agency,US
+sample_0485,Private Company,US,Private Company,US
+sample_0486,Other Organization,US,Other Organization,US
+sample_0487,Private Company,US,Private Company,US
+sample_0488,Public Agency,Non-US,Public Agency,Non-US
+sample_0489,Other Organization,US,Other Organization,US
+sample_0490,Public Agency,US,Public Agency,US
+sample_0491,Public Agency,US,Public Agency,US
+sample_0492,University,Non-US,University,Non-US
+sample_0493,Public Agency,Non-US,Public Agency,Non-US
+sample_0494,University,US,Other Organization,Uncertain
+sample_0495,Other Organization,Non-US,Other Organization,Non-US
+sample_0496,Public Agency,US,Public Agency,US
+sample_0497,Other Organization,Non-US,Other Organization,Non-US
+sample_0498,Other Organization,US,Other Organization,US
+sample_0499,Other Organization,Non-US,University,US
+sample_0500,Public Agency,US,Public Agency,US
+sample_0501,Public Agency,Non-US,Public Agency,Non-US
+sample_0502,Private Company,US,Private Company,Non-US
+sample_0503,Public Agency,US,Public Agency,US
+sample_0504,Other Organization,Non-US,Other Organization,Non-US
+sample_0505,Other Organization,US,Other Organization,US
+sample_0506,Public Agency,US,Public Agency,US
+sample_0507,Public Agency,US,Public Agency,US
+sample_0508,Public Agency,US,Public Agency,US
+sample_0509,University,US,University,US
+sample_0510,University,US,Other Organization,US
+sample_0511,University,US,University,US
+sample_0512,University,US,University,US
+sample_0513,Other Organization,US,Other Organization,US
+sample_0514,Public Agency,Non-US,Public Agency,Non-US
+sample_0515,University,Non-US,University,Non-US
+sample_0516,Private Company,US,Private Company,US
+sample_0517,Other Organization,US,Other Organization,US
+sample_0518,Public Agency,US,Public Agency,US
+sample_0519,Other Organization,Non-US,Public Agency,Non-US
+sample_0520,Private Company,Uncertain,Private Company,US
+sample_0521,University,Non-US,University,Non-US
+sample_0522,University,Non-US,University,Non-US
+sample_0523,University,Non-US,University,Non-US
+sample_0524,Other Organization,Non-US,University,Non-US
+sample_0525,Public Agency,Non-US,Public Agency,Non-US
+sample_0526,Other Organization,US,Private Company,US
+sample_0527,University,US,Other Organization,US
+sample_0528,Other Organization,Non-US,Public Agency,Non-US
+sample_0529,Other Organization,Non-US,Other Organization,Non-US
+sample_0530,Other Organization,US,Other Organization,US
+sample_0531,Other Organization,US,Other Organization,US
+sample_0532,Public Agency,US,University,US
+sample_0533,Public Agency,Non-US,Public Agency,Non-US
+sample_0534,Other Organization,US,Other Organization,US
+sample_0535,Public Agency,US,Public Agency,US
+sample_0536,Private Company,US,Private Company,US
+sample_0537,Public Agency,Non-US,Public Agency,Non-US
+sample_0538,Public Agency,US,Public Agency,US
+sample_0539,Other Organization,US,Other Organization,US
+sample_0540,Public Agency,Non-US,Public Agency,Non-US
+sample_0541,Other Organization,US,Other Organization,US
+sample_0542,Public Agency,Non-US,Public Agency,Non-US
+sample_0543,Other Organization,US,Other Organization,US
+sample_0544,Private Company,Non-US,Private Company,Non-US
+sample_0545,Public Agency,Non-US,Public Agency,Non-US
+sample_0546,University,US,University,US
+sample_0547,University,Non-US,University,Non-US
+sample_0548,Other Organization,US,Other Organization,US
+sample_0549,Other Organization,US,Other Organization,Uncertain
+sample_0550,Public Agency,US,Public Agency,US
+sample_0551,Other Organization,US,Other Organization,US
+sample_0552,Other Organization,US,Other Organization,US
+sample_0553,Public Agency,US,Public Agency,US
+sample_0554,Private Company,Non-US,Other Organization,Non-US
+sample_0555,Other Organization,Non-US,Other Organization,Non-US
+sample_0556,Other Organization,US,Other Organization,Uncertain
+sample_0557,Public Agency,US,Public Agency,US
+sample_0558,Public Agency,US,Public Agency,US
+sample_0559,Public Agency,Non-US,Public Agency,Non-US
+sample_0560,Private Company,US,Private Company,US
+sample_0561,Public Agency,US,Public Agency,US
+sample_0562,University,US,Other Organization,US
+sample_0563,Public Agency,US,Public Agency,US
+sample_0564,Public Agency,US,Public Agency,US
+sample_0565,Other Organization,US,University,US
+sample_0566,Private Company,US,Private Company,US
+sample_0567,Public Agency,US,Public Agency,US
+sample_0568,University,US,University,US
+sample_0569,Public Agency,US,Public Agency,US
+sample_0570,Public Agency,Non-US,Public Agency,Non-US
+sample_0571,Public Agency,Non-US,Public Agency,Non-US
+sample_0572,Public Agency,US,Public Agency,US
+sample_0573,Other Organization,Non-US,Other Organization,Non-US
+sample_0574,Other Organization,US,Other Organization,US
+sample_0575,Public Agency,US,Public Agency,US
+sample_0576,Other Organization,US,Other Organization,US
+sample_0577,Private Company,Uncertain,Private Company,Non-US
+sample_0578,Public Agency,US,Public Agency,US
+sample_0579,Public Agency,Non-US,Public Agency,Non-US
+sample_0580,University,US,University,US
+sample_0581,Public Agency,US,Public Agency,US
+sample_0582,Public Agency,US,Public Agency,US
+sample_0583,Public Agency,US,Public Agency,US
+sample_0584,Public Agency,US,Public Agency,US
+sample_0585,Other Organization,US,Other Organization,US
+sample_0586,Private Company,US,Private Company,US
+sample_0587,Other Organization,US,Other Organization,US
+sample_0588,Other Organization,Non-US,Other Organization,Non-US
+sample_0589,Private Company,US,Private Company,US
+sample_0590,Other Organization,US,Other Organization,US
+sample_0591,Private Company,US,Private Company,US
+sample_0592,Public Agency,US,Public Agency,US
+sample_0593,University,Uncertain,University,Non-US
+sample_0594,Private Company,US,Private Company,US
+sample_0595,Private Company,Non-US,Private Company,Non-US
+sample_0596,Other Organization,US,Other Organization,US
+sample_0597,Private Company,US,Private Company,US
+sample_0598,Private Company,US,Private Company,US
+sample_0599,Public Agency,US,Public Agency,US
+sample_0600,Other Organization,US,Other Organization,US
+sample_0601,Other Organization,US,University,Non-US
+sample_0602,University,US,University,US
+sample_0603,Other Organization,Non-US,Other Organization,Non-US
+sample_0604,University,Non-US,University,Non-US
+sample_0605,Other Organization,Uncertain,Other Organization,US
+sample_0606,Public Agency,Non-US,Public Agency,Non-US
+sample_0607,Private Company,US,Private Company,US
+sample_0608,Public Agency,Non-US,Public Agency,Non-US
+sample_0609,University,US,University,US
+sample_0610,Other Organization,Non-US,Other Organization,Non-US
+sample_0611,Other Organization,Non-US,Other Organization,Non-US
+sample_0612,Other Organization,Uncertain,Other Organization,Uncertain
+sample_0613,University,US,Other Organization,US
+sample_0614,Public Agency,US,Public Agency,US
+sample_0615,University,US,University,US
+sample_0616,Private Company,US,Private Company,US
+sample_0617,Public Agency,Non-US,Public Agency,Non-US
+sample_0618,Public Agency,Non-US,Public Agency,Non-US
+sample_0619,Other Organization,US,Other Organization,US
+sample_0620,Public Agency,Non-US,Public Agency,Non-US
+sample_0621,Other Organization,Uncertain,Other Organization,Uncertain
+sample_0622,Public Agency,US,Public Agency,US
+sample_0623,Private Company,Non-US,Private Company,Non-US
+sample_0624,Other Organization,US,Other Organization,US
+sample_0625,University,US,University,US
+sample_0626,Other Organization,US,Other Organization,US
+sample_0627,Public Agency,Non-US,Public Agency,Non-US
+sample_0628,Public Agency,Non-US,Public Agency,Non-US
+sample_0629,Other Organization,US,Other Organization,US
+sample_0630,Public Agency,US,Public Agency,US
+sample_0631,Other Organization,US,Other Organization,US
+sample_0632,University,US,Other Organization,US
+sample_0633,Private Company,US,Private Company,US
+sample_0634,Public Agency,US,Public Agency,US
+sample_0635,Other Organization,US,Other Organization,US
+sample_0636,University,US,University,US
+sample_0637,Private Company,US,Private Company,US
+sample_0638,Other Organization,US,Other Organization,US
+sample_0639,University,US,University,US
+sample_0640,University,US,University,US
+sample_0641,Private Company,Uncertain,Private Company,US
+sample_0642,University,Non-US,University,Non-US
+sample_0643,University,US,University,US
+sample_0644,Public Agency,Non-US,Public Agency,Non-US
+sample_0645,Public Agency,US,Public Agency,US
+sample_0646,Public Agency,US,Public Agency,US
+sample_0647,Other Organization,US,University,US
+sample_0648,Private Company,Non-US,Private Company,Non-US
+sample_0649,Other Organization,Non-US,Other Organization,Non-US
+sample_0650,Public Agency,Non-US,Public Agency,Non-US
+sample_0651,Public Agency,US,Public Agency,US
+sample_0652,Other Organization,US,Other Organization,US
+sample_0653,Private Company,Non-US,Private Company,Non-US
+sample_0654,Other Organization,US,Other Organization,US
+sample_0655,Other Organization,US,Other Organization,US
+sample_0656,Other Organization,US,Other Organization,US
+sample_0657,Private Company,Non-US,Private Company,Uncertain
+sample_0658,Private Company,Uncertain,Private Company,US
+sample_0659,University,Non-US,University,Non-US
+sample_0660,Public Agency,US,Public Agency,US
+sample_0661,Private Company,Uncertain,Private Company,Non-US
+sample_0662,Private Company,Non-US,Private Company,Non-US
+sample_0663,Other Organization,US,Other Organization,US
+sample_0664,Public Agency,US,Public Agency,US
+sample_0665,Public Agency,Non-US,Other Organization,Non-US
+sample_0666,Public Agency,Non-US,Public Agency,Non-US
+sample_0667,Private Company,US,Private Company,US
+sample_0668,Public Agency,Non-US,Public Agency,Non-US
+sample_0669,Public Agency,US,Public Agency,US
+sample_0670,Other Organization,US,Other Organization,US
+sample_0671,Other Organization,US,Other Organization,US
+sample_0672,Public Agency,US,Public Agency,US
+sample_0673,Other Organization,Non-US,University,Non-US
+sample_0674,Public Agency,Non-US,Public Agency,Non-US
+sample_0675,Public Agency,US,Public Agency,US
+sample_0676,Public Agency,US,Public Agency,US
+sample_0677,Public Agency,Non-US,Public Agency,Non-US
+sample_0678,Public Agency,US,University,US
+sample_0679,Public Agency,US,Public Agency,US
+sample_0680,Other Organization,US,Other Organization,US
+sample_0681,University,US,University,US
+sample_0682,Public Agency,US,Public Agency,US
+sample_0683,Private Company,US,Private Company,Non-US
+sample_0684,Other Organization,US,Other Organization,US
+sample_0685,Other Organization,Non-US,Other Organization,Non-US
+sample_0686,Public Agency,Non-US,Public Agency,Non-US
+sample_0687,Other Organization,US,Other Organization,US
+sample_0688,Private Company,Uncertain,Private Company,US
+sample_0689,Private Company,US,Private Company,US
+sample_0690,University,US,University,US
+sample_0691,Other Organization,Non-US,Other Organization,Non-US
+sample_0692,Public Agency,US,Public Agency,US
+sample_0693,Private Company,US,Private Company,US
+sample_0694,Public Agency,Non-US,Public Agency,Non-US
+sample_0695,Other Organization,Uncertain,Other Organization,US
+sample_0696,Other Organization,US,Other Organization,US
+sample_0697,Other Organization,Non-US,Other Organization,Non-US
+sample_0698,Other Organization,Non-US,Other Organization,Non-US
+sample_0699,Other Organization,Uncertain,Other Organization,Non-US
+sample_0700,Other Organization,US,Other Organization,US
+sample_0701,Private Company,Non-US,Private Company,US
+sample_0702,Other Organization,Non-US,Other Organization,Non-US
+sample_0703,Other Organization,US,Other Organization,US
+sample_0704,Other Organization,US,Other Organization,US
+sample_0705,University,US,University,US
+sample_0706,Other Organization,US,Other Organization,US
+sample_0707,Private Company,Non-US,Private Company,Non-US
+sample_0708,Other Organization,Uncertain,Other Organization,US
+sample_0709,Public Agency,US,Public Agency,US
+sample_0710,Public Agency,Non-US,Public Agency,Non-US
+sample_0711,Other Organization,Uncertain,Other Organization,Non-US
+sample_0712,Public Agency,Non-US,Public Agency,Non-US
+sample_0713,Public Agency,Non-US,Public Agency,Non-US
+sample_0714,Other Organization,Uncertain,Private Company,US
+sample_0715,University,Non-US,University,Non-US
+sample_0716,Other Organization,US,Other Organization,US
+sample_0717,Other Organization,US,Other Organization,US
+sample_0718,Private Company,Non-US,Private Company,Non-US
+sample_0719,Public Agency,US,Public Agency,US
+sample_0720,Public Agency,Non-US,Public Agency,Non-US
+sample_0721,Other Organization,Non-US,Other Organization,Non-US
+sample_0722,Public Agency,US,Public Agency,US
+sample_0723,Public Agency,US,Public Agency,US
+sample_0724,University,Non-US,University,Non-US
+sample_0725,Public Agency,US,Public Agency,US
+sample_0726,Public Agency,US,Public Agency,US
+sample_0727,Public Agency,Non-US,Public Agency,Non-US
+sample_0728,Public Agency,US,Public Agency,US
+sample_0729,University,US,University,US
+sample_0730,University,US,University,US
+sample_0731,Private Company,Non-US,Private Company,US
+sample_0732,Public Agency,US,Public Agency,US
+sample_0733,Public Agency,Non-US,Public Agency,Non-US
+sample_0734,Public Agency,US,Public Agency,US
+sample_0735,Public Agency,US,Public Agency,US
+sample_0736,Public Agency,US,Public Agency,US
+sample_0737,Public Agency,US,Public Agency,US
+sample_0738,Other Organization,Uncertain,Other Organization,Uncertain
+sample_0739,University,US,University,US
+sample_0740,Other Organization,US,Other Organization,US
+sample_0741,Private Company,Non-US,Private Company,Non-US
+sample_0742,Public Agency,US,Public Agency,US
+sample_0743,Other Organization,US,Other Organization,US
+sample_0744,Other Organization,US,Other Organization,US
+sample_0745,Private Company,Non-US,Private Company,Non-US
+sample_0746,Public Agency,US,Public Agency,US
+sample_0747,Public Agency,Non-US,Public Agency,Non-US
+sample_0748,Private Company,Uncertain,Private Company,US
+sample_0749,Other Organization,Non-US,Other Organization,Non-US
+sample_0750,Other Organization,Uncertain,Other Organization,Non-US
+sample_0751,Public Agency,US,Public Agency,US
+sample_0752,Other Organization,Non-US,University,US
+sample_0753,Other Organization,US,University,US
+sample_0754,Other Organization,US,Other Organization,US
+sample_0755,Other Organization,US,Other Organization,US
+sample_0756,Public Agency,US,Public Agency,US
+sample_0757,Other Organization,US,Other Organization,US
+sample_0758,Public Agency,US,Public Agency,US
+sample_0759,Other Organization,Uncertain,Other Organization,Uncertain
+sample_0760,Other Organization,US,Other Organization,US
+sample_0761,University,US,University,US
+sample_0762,Other Organization,US,Other Organization,US
+sample_0763,Public Agency,US,Public Agency,US
+sample_0764,Other Organization,US,Other Organization,US
+sample_0765,Other Organization,US,Other Organization,US
+sample_0766,Public Agency,US,Public Agency,US
+sample_0767,Public Agency,Non-US,Public Agency,Non-US
+sample_0768,Public Agency,Non-US,Public Agency,Non-US
+sample_0769,Public Agency,US,Public Agency,US
+sample_0770,Other Organization,US,Other Organization,US
+sample_0771,Public Agency,US,Public Agency,US
+sample_0772,University,US,University,US
+sample_0773,Private Company,US,Private Company,US
+sample_0774,Other Organization,Non-US,Other Organization,Non-US
+sample_0775,University,US,University,US
+sample_0776,Other Organization,Uncertain,Other Organization,US
+sample_0777,University,Non-US,University,Non-US
+sample_0778,Other Organization,US,Other Organization,US
+sample_0779,Public Agency,US,Public Agency,US
+sample_0780,University,US,University,US
+sample_0781,Other Organization,Non-US,Public Agency,US
+sample_0782,Other Organization,US,Other Organization,US
+sample_0783,Public Agency,US,Public Agency,US
+sample_0784,Public Agency,Non-US,Other Organization,Non-US
+sample_0785,Public Agency,US,Public Agency,US
+sample_0786,Public Agency,US,Public Agency,US
+sample_0787,Other Organization,US,Other Organization,US
+sample_0788,Public Agency,US,Public Agency,US
+sample_0789,University,US,University,US
+sample_0790,Public Agency,US,Public Agency,US
+sample_0791,University,Non-US,University,Non-US
+sample_0792,Other Organization,Non-US,Other Organization,Non-US
+sample_0793,Public Agency,US,Public Agency,US
+sample_0794,Other Organization,Non-US,Other Organization,Non-US
+sample_0795,Private Company,Non-US,Private Company,Non-US
+sample_0796,Private Company,Non-US,Private Company,US
+sample_0797,Public Agency,US,Public Agency,US
+sample_0798,Public Agency,US,Public Agency,US
+sample_0799,Other Organization,US,University,US
+sample_0800,Other Organization,US,Other Organization,US
+sample_0801,Private Company,US,Private Company,US
+sample_0802,Private Company,Non-US,Private Company,Non-US
+sample_0803,Public Agency,US,Public Agency,US
+sample_0804,University,US,University,US
+sample_0805,Other Organization,US,Other Organization,US
+sample_0806,Public Agency,US,Public Agency,US
+sample_0807,University,US,University,US
+sample_0808,Other Organization,US,Other Organization,US
+sample_0809,University,US,University,US
+sample_0810,Public Agency,Non-US,Public Agency,Non-US
+sample_0811,Public Agency,US,Public Agency,US
+sample_0812,Public Agency,Non-US,Other Organization,Non-US
+sample_0813,Private Company,Non-US,Private Company,Non-US
+sample_0814,University,US,University,US
+sample_0815,University,Non-US,University,Non-US
+sample_0816,Private Company,Non-US,Private Company,Non-US
+sample_0817,Other Organization,US,Other Organization,US
+sample_0818,University,Non-US,University,Non-US
+sample_0819,Public Agency,Non-US,Public Agency,Non-US
+sample_0820,Other Organization,Non-US,Other Organization,Non-US
+sample_0821,Other Organization,US,Other Organization,US
+sample_0822,Other Organization,US,Other Organization,US
+sample_0823,Public Agency,US,Public Agency,US
+sample_0824,Public Agency,Non-US,Public Agency,Non-US
+sample_0825,Other Organization,US,Other Organization,US
+sample_0826,Public Agency,US,Public Agency,US
+sample_0827,Other Organization,US,Other Organization,US
+sample_0828,Public Agency,US,Public Agency,US
+sample_0829,Public Agency,US,Public Agency,US
+sample_0830,Public Agency,US,Public Agency,US
+sample_0831,University,US,University,US
+sample_0832,Public Agency,US,Public Agency,US
+sample_0833,University,US,University,US
+sample_0834,Public Agency,US,Other Organization,Uncertain
+sample_0835,Public Agency,Non-US,Public Agency,Non-US
+sample_0836,University,US,University,US
+sample_0837,Private Company,US,Private Company,US
+sample_0838,Public Agency,Non-US,Other Organization,Non-US
+sample_0839,Public Agency,US,Public Agency,US
+sample_0840,Public Agency,Non-US,Public Agency,Non-US
+sample_0841,University,Non-US,University,Non-US
+sample_0842,Public Agency,US,Public Agency,US
+sample_0843,Private Company,US,Private Company,US
+sample_0844,Other Organization,US,Other Organization,US
+sample_0845,Other Organization,Uncertain,University,Non-US
+sample_0846,University,US,University,US
+sample_0847,Other Organization,US,Public Agency,US
+sample_0848,Other Organization,US,Other Organization,US
+sample_0849,Other Organization,Uncertain,Other Organization,Uncertain
+sample_0850,Other Organization,US,Other Organization,US
+sample_0851,Private Company,Non-US,Other Organization,Non-US
+sample_0852,Other Organization,US,Other Organization,US
+sample_0853,Private Company,US,Private Company,US
+sample_0854,Private Company,Non-US,Private Company,Non-US
+sample_0855,Other Organization,US,Other Organization,US
+sample_0856,Public Agency,US,Public Agency,US
+sample_0857,Public Agency,US,Public Agency,US
+sample_0858,Private Company,US,Private Company,US
+sample_0859,Private Company,US,Private Company,US
+sample_0860,Other Organization,Uncertain,Other Organization,Uncertain
+sample_0861,Other Organization,Uncertain,Other Organization,US
+sample_0862,Private Company,Uncertain,Private Company,US
+sample_0863,Public Agency,US,Public Agency,US
+sample_0864,Public Agency,US,Public Agency,US
+sample_0865,University,US,University,US
+sample_0866,Public Agency,US,Public Agency,US
+sample_0867,Other Organization,US,Other Organization,US
+sample_0868,Other Organization,US,Other Organization,US
+sample_0869,Public Agency,US,Public Agency,US
+sample_0870,University,US,University,US
+sample_0871,University,US,University,US
+sample_0872,Other Organization,US,Other Organization,US
+sample_0873,Other Organization,US,Other Organization,US
+sample_0874,Public Agency,US,Public Agency,US
+sample_0875,Other Organization,Non-US,Other Organization,Non-US
+sample_0876,Public Agency,US,Public Agency,US
+sample_0877,Other Organization,Uncertain,Other Organization,US
+sample_0878,Other Organization,Non-US,Other Organization,Non-US
+sample_0879,Other Organization,US,Other Organization,US
+sample_0880,Public Agency,US,Public Agency,US
+sample_0881,Public Agency,Non-US,Public Agency,Non-US
+sample_0882,Other Organization,US,Other Organization,US
+sample_0883,Other Organization,US,Other Organization,US
+sample_0884,Public Agency,US,Public Agency,US
+sample_0885,Other Organization,Uncertain,Other Organization,Uncertain
+sample_0886,Other Organization,US,Other Organization,US
+sample_0887,Other Organization,Uncertain,Other Organization,Uncertain
+sample_0888,Private Company,US,Private Company,US
+sample_0889,Other Organization,Non-US,Other Organization,Non-US
+sample_0890,Private Company,Non-US,Private Company,Non-US
+sample_0891,Other Organization,US,Other Organization,US
+sample_0892,University,US,University,US
+sample_0893,Other Organization,US,Other Organization,US
+sample_0894,University,Uncertain,Other Organization,Uncertain
+sample_0895,Other Organization,US,Other Organization,US
+sample_0896,Other Organization,US,Other Organization,US
+sample_0897,Public Agency,Non-US,Public Agency,Non-US
+sample_0898,Private Company,US,Private Company,US
+sample_0899,University,Non-US,University,Non-US
+sample_0900,Other Organization,Uncertain,Public Agency,US
+sample_0901,University,US,University,US
+sample_0902,Private Company,US,Private Company,US
+sample_0903,Private Company,US,Private Company,US
+sample_0904,Public Agency,Non-US,Public Agency,Non-US
+sample_0905,University,US,University,US
+sample_0906,Public Agency,US,Public Agency,US
+sample_0907,University,US,University,US
+sample_0908,Public Agency,Non-US,Public Agency,Non-US
+sample_0909,University,US,University,US
+sample_0910,Other Organization,US,Other Organization,Uncertain
+sample_0911,Private Company,US,Private Company,US
+sample_0912,Other Organization,US,Other Organization,US
+sample_0913,Other Organization,Non-US,Other Organization,Non-US
+sample_0914,Other Organization,US,University,US
+sample_0915,Other Organization,US,Other Organization,US
+sample_0916,Public Agency,US,Public Agency,US
+sample_0917,Other Organization,US,Other Organization,US
+sample_0918,Public Agency,US,Public Agency,US
+sample_0919,University,US,University,US
+sample_0920,Public Agency,US,Public Agency,US
+sample_0921,Other Organization,Non-US,Public Agency,Non-US
+sample_0922,Public Agency,US,Public Agency,US
+sample_0923,Other Organization,US,Other Organization,US
+sample_0924,Other Organization,US,Other Organization,US
+sample_0925,Private Company,US,Private Company,US
+sample_0926,Public Agency,Non-US,Public Agency,Non-US
+sample_0927,University,US,University,US
+sample_0928,Public Agency,US,Public Agency,US
+sample_0929,Public Agency,Non-US,Public Agency,Non-US
+sample_0930,University,US,University,US
+sample_0931,University,US,University,US
+sample_0932,Public Agency,US,Public Agency,US
+sample_0933,Other Organization,Uncertain,Other Organization,Uncertain
+sample_0934,Other Organization,US,Other Organization,US
+sample_0935,Other Organization,Uncertain,Other Organization,US
+sample_0936,Other Organization,Non-US,Other Organization,Non-US
+sample_0937,Other Organization,Non-US,Other Organization,Non-US
+sample_0938,Private Company,US,Private Company,US
+sample_0939,Public Agency,US,Public Agency,US
+sample_0940,Other Organization,Uncertain,Private Company,US
+sample_0941,Other Organization,Uncertain,Other Organization,Uncertain
+sample_0942,Other Organization,US,Other Organization,US
+sample_0943,Public Agency,Non-US,Public Agency,Non-US
+sample_0944,Public Agency,US,Public Agency,US
+sample_0945,Other Organization,US,Other Organization,US
+sample_0946,University,US,University,US
+sample_0947,Other Organization,Non-US,Other Organization,Non-US
+sample_0948,Other Organization,Uncertain,Other Organization,Uncertain
+sample_0949,Public Agency,US,Public Agency,US
+sample_0950,Other Organization,US,Other Organization,US
+sample_0951,Other Organization,Uncertain,Other Organization,Uncertain
+sample_0952,Public Agency,US,Public Agency,US
+sample_0953,Other Organization,US,Other Organization,US
+sample_0954,Private Company,Non-US,Private Company,Non-US
+sample_0955,Public Agency,US,Public Agency,US
+sample_0956,Other Organization,Non-US,Other Organization,Non-US
+sample_0957,Public Agency,US,Public Agency,US
+sample_0958,Public Agency,Non-US,Public Agency,Non-US
+sample_0959,Other Organization,US,Other Organization,US
+sample_0960,Other Organization,US,Public Agency,US
+sample_0961,Public Agency,US,Public Agency,US
+sample_0962,Other Organization,US,Public Agency,US
+sample_0963,Other Organization,Non-US,Public Agency,Non-US
+sample_0964,Private Company,US,Private Company,US
+sample_0965,Other Organization,Uncertain,Other Organization,US
+sample_0966,Public Agency,US,Public Agency,US
+sample_0967,Public Agency,Uncertain,Public Agency,Uncertain
+sample_0968,Other Organization,US,Other Organization,US
+sample_0969,Public Agency,Non-US,Public Agency,Non-US
+sample_0970,Private Company,US,Private Company,Non-US
+sample_0971,University,US,University,US
+sample_0972,Public Agency,US,Public Agency,US
+sample_0973,University,Non-US,University,Non-US
+sample_0974,Public Agency,US,Public Agency,US
+sample_0975,University,US,Other Organization,US
+sample_0976,Other Organization,US,Public Agency,US
+sample_0977,University,Non-US,University,Non-US
+sample_0978,Other Organization,US,University,US
+sample_0979,Public Agency,US,Public Agency,US
+sample_0980,Other Organization,US,University,US
+sample_0981,Private Company,US,Private Company,US
+sample_0982,Private Company,Uncertain,Private Company,Non-US
+sample_0983,Private Company,US,Private Company,US
+sample_0984,Public Agency,US,Public Agency,US
+sample_0985,University,Non-US,University,Non-US
+sample_0986,Public Agency,US,Public Agency,US
+sample_0987,Private Company,Non-US,Private Company,US
+sample_0988,Other Organization,US,Other Organization,US
+sample_0989,Public Agency,US,Public Agency,US
+sample_0990,Public Agency,US,Public Agency,US
+sample_0991,Public Agency,Non-US,Public Agency,Non-US
+sample_0992,Public Agency,US,Public Agency,US
+sample_0993,Public Agency,US,Public Agency,US
+sample_0994,Public Agency,US,University,US
+sample_0995,University,US,University,US
+sample_0996,Public Agency,US,Public Agency,US
+sample_0997,University,Non-US,University,Non-US
+sample_0998,Other Organization,Non-US,Other Organization,Non-US
+sample_0999,Public Agency,Non-US,Public Agency,Non-US
+sample_1000,Private Company,US,Private Company,US
